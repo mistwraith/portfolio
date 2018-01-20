@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Work Experience</title>
+    <link rel="stylesheet" type="text/css" href="portfolio.css">
+  </head>
+  <body>
+    <nav>
+      <ul>      
+	<li><a href="index.html">Home</a></li>
+	<li><a href="projects.html">Projects</a></li>
+	<li><a href="experience.html">Work Experience</a></li>
+	<li><a href="Contact.html">Contact</a></li>
+      </ul>
+    </nav>
+     <h2>Work Experience:</h2>
+    <ul>
+      <li>I worked for my father at Designed Nutritional Products for 6 months in 2014</li>
+      <li>I currently work with the Student Life and Technology department in the WSC</li>
+    </ul>
+    <hr>
+  </body>  
+</html>
